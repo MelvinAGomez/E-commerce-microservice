@@ -1,6 +1,10 @@
 Dont go into any directory
 just run the below commands in the main directory:
 
+### Requirements
+1. Docker
+2. minikube
+
 ### Might not work
 
 ## Command to create images 
