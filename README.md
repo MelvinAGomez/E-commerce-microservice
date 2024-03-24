@@ -1,7 +1,7 @@
 Dont go into any directory
 just run the below commands in the main directory:
 
-### Requirements
+## Requirements
 1. Docker
 2. minikube
 
